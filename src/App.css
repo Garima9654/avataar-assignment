@@ -1,6 +1,6 @@
 .container {
   width: 1000px; /* Fixed width for the container */
-  margin: 0 auto; /* Center the container horizontally */
+  margin: 0 auto; 
 }
 
 .element {
@@ -10,12 +10,12 @@
 /* Adjust styles for smaller screen sizes */
 @media screen and (max-width: 768px) {
   .container {
-    width: 90%; /* Adjust container width for smaller screens */
+    width: 90%; 
   }
   
   .element {
-    width: 100%; /* Make element full width for smaller screens */
-    box-sizing: border-box; /* Include padding and border in the width */
-    padding: 10px; /* Add padding to the element */
+    width: 100%; 
+    box-sizing: border-box; 
+    padding: 10px;
   }
 }
