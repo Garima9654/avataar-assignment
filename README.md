@@ -1,9 +1,7 @@
 ## Live Demo/Deployement
 https://66000a1954edecc9a195187d--genuine-selkie-121d1e.netlify.app/
 
-# Getting Started with Create React App
-
-# Getting Started with Create React App
+# How to Use
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
