@@ -1,6 +1,12 @@
 # Live Deployment / Demo
 https://66000a1954edecc9a195187d--genuine-selkie-121d1e.netlify.app/
 
+# The Tech
+* React.Js
+* CSS
+* SCSS
+* HTML
+
 # How to Use
 
 This project used [Create React App](https://github.com/facebook/create-react-app).
