@@ -3,6 +3,7 @@ https://github.com/Garima9654/avataar-assignment/assets/76567103/e32dfedb-accc-4
 # Live Deployment / Demo
 https://66000a1954edecc9a195187d--genuine-selkie-121d1e.netlify.app/
 
+
 # The Tech
 * React.Js
 * CSS
