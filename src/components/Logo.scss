@@ -15,20 +15,20 @@
 .img1 {
     width: 25px;
     height: 25px;
-    animation: increaseSize 2s infinite alternate; /* Animation properties */
+    animation: increaseSize 2s infinite alternate; 
 }
 
 @keyframes increaseSize {
     0% {
-        transform: scale(1); /* Initial size */
+        transform: scale(1); 
     }
     100% {
-        transform: scale(5.0); /* Final size */
+        transform: scale(5.0); 
     }
 }
 
 .show-heading {
-    display: block; /* Show the heading */
+    display: block; 
 }
 
 
